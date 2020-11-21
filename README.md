@@ -1,5 +1,5 @@
 # SOM-Kohonen-Neural-Network
 
-This SOM neural network classify Iris Plants
+This a self organizing map for Iris Plants classification
 
 
